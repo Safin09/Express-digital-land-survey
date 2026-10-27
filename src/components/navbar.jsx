@@ -36,8 +36,8 @@ export default function Navbar() {
         >
           Request a Survey <ArrowUpRight size={18} />
         </Link>
-
-        {/* Mobile Menu Button */}
+        {/* Mobile Menu Button */}  
+        {/* new commit */}
         <button
           type="button"
           aria-label={menuOpen ? 'Close menu' : 'Open menu'}
